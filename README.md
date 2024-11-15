@@ -1,4 +1,4 @@
-# NY_CityBike
+# NY_CitiBike
 
 ## Project Overview
 
