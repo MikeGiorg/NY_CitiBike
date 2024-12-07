@@ -4,6 +4,7 @@
 *.pkl
 !top20.csv
 !dashdata.csv
+!bikeusage
 test.py
 
 # Byte-compiled / optimized / DLL files
